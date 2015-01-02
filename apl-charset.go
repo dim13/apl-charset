@@ -1,4 +1,5 @@
-// ISO/IEC 2000 APL Required Character Set
+// ISO/IEC 13751:2000 APL Required Character Set
+// http://www.math.uwaterloo.ca/~ljdickey/apl-rep/docs/is13751.pdf
 // see also /usr/share/X11/xkb/symbols/apl
 package main
 
