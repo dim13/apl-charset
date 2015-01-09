@@ -89,6 +89,10 @@ var charmap = map[rune]string{
 	'≡':  "equal underbar",
 }
 
+var additional = map[rune]string{
+	'∞': "infinity",
+}
+
 func scan(chars string) {
 	for _, c := range chars {
 		if name, ok := charmap[c]; ok {
